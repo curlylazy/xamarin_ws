@@ -1,0 +1,4 @@
+[29-Nov-2020 17:18:37 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/k0554227/public_html/virtualtourjp/ws/ws/includes/pengaturan/pengaturan_list.php on line 24
+[29-Nov-2020 17:19:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/k0554227/public_html/virtualtourjp/ws/ws/includes/pengaturan/pengaturan_list.php on line 24
+[29-Nov-2020 17:19:39 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/k0554227/public_html/virtualtourjp/ws/ws/includes/pengaturan/pengaturan_list.php on line 24
+[29-Nov-2020 17:24:54 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/k0554227/public_html/virtualtourjp/ws/ws/includes/pengaturan/pengaturan_list.php on line 24
